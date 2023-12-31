@@ -1,2 +1,6 @@
-# Fake-Job-Classification---Python-ML
-This project is based on Machine Learning and Python. Main aim of this project is to classify the genuine and fraudulent jobs, thereby alerting the job seekers regrading the scams.
+# Project Description
+This project is based on Machine Learning and Python. The main aim of this project is to classify genuine and fraudulent jobs, thereby alerting job seekers regarding the scams.
+
+It is a binary classification project where the goal is to classify the jobs posted as genuine or fraudulent. EMSCAD dataset, which is publically available was used for the analysis. The goal of the dataset is to provide sufficient data to the research community and help them to come up with ways to fight against these fraudulent job issues. For the analysis, different supervised machine learning models like logistic regression, support vector machine (SVM), K-Nearest neighbor (KNN), decision tree, and random forest were used. Used NLTK word cloud and TF-IDF technique to handle the textual data. Used sampling techniques to balance the imbalanced dataset. The models were implemented and hyperparameter tuning and threshold tuning were done to them to improve their performance. A comparison was made for the overall performance of the models by using various evaluation metrics. The recall was considered one of the main metrics because the models should be sensitive in predicting fraudulent jobs. Overall, the decision tree performed well when compared to other models implemented.
+
+Skills: Data-driven Decision Making · Data Analysis · Microsoft Excel · Data Analytics · Python (Programming Language) · Machine Learning
